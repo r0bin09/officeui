@@ -6635,3 +6635,7 @@ a.badge:focus {
       textarea{
         resize:none;
       }
+
+      .contact-left a:first-child:hover{
+        text-decoration: underline;
+      }
